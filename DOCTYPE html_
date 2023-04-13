@@ -1,0 +1,30 @@
+DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>OGF: A estrada até aqui.</title>
+<head>
+<body style="background-color: rgb(27, 26, 26);">
+    <fontcolor="red">
+<h1 style="text-align: center; ">Sobre o Colégio Osmar Guaracy Freire</h1>
+
+<p style="text-align: center; " ><strong>Educação em primeiro lugar!</strong></p>
+<p>O Colégio Osmar Guaracy Freire fica situado em apucarana, no núcleo habitacional Adriano Correia e conta com diversos professores e funcionários comprometidos com a educação.</p>
+
+<p style="text-align: center; "><strong>Quem somos?</strong></p>
+
+<p style="text-align: center; ">Rodrigo Bertoni;  Leonardo;  Flávio.</p>
+
+<p style="text-align: center; ">O colégio oferece o ensino fundamental e o novo ensino médio, com o itinerário formativo em ciências da natureza e exatas.</p>
+
+<h2>O que oferecemos?</h2>
+<ul style="font-style: italic">
+<li class="itens">Educação de qualidade;</li>
+<li class="itens">Exelentes profissionais;</li>
+<li class="itens">Estrutura para receber os estudantes</li>
+</ul>
+
+
+</body>
+</html>
+
